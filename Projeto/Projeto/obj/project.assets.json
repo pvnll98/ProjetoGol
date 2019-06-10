@@ -12132,11 +12132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Teste\\Projeto\\Projeto\\Projeto.Api.csproj",
+      "projectUniqueName": "C:\\Teste\\Git\\ProjetoGol\\Projeto\\Projeto\\Projeto.Api.csproj",
       "projectName": "Projeto.Api",
-      "projectPath": "C:\\Teste\\Projeto\\Projeto\\Projeto.Api.csproj",
+      "projectPath": "C:\\Teste\\Git\\ProjetoGol\\Projeto\\Projeto\\Projeto.Api.csproj",
       "packagesPath": "C:\\Users\\Daniel Batuira\\.nuget\\packages\\",
-      "outputPath": "C:\\Teste\\Projeto\\Projeto\\obj\\",
+      "outputPath": "C:\\Teste\\Git\\ProjetoGol\\Projeto\\Projeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12158,11 +12158,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Teste\\Projeto\\Projeto.Domain\\Projeto.Domain.csproj": {
-              "projectPath": "C:\\Teste\\Projeto\\Projeto.Domain\\Projeto.Domain.csproj"
+            "C:\\Teste\\Git\\ProjetoGol\\Projeto\\Projeto.Domain\\Projeto.Domain.csproj": {
+              "projectPath": "C:\\Teste\\Git\\ProjetoGol\\Projeto\\Projeto.Domain\\Projeto.Domain.csproj"
             },
-            "C:\\Teste\\Projeto\\Projeto.Infra.Data\\Projeto.Infra.Data.csproj": {
-              "projectPath": "C:\\Teste\\Projeto\\Projeto.Infra.Data\\Projeto.Infra.Data.csproj"
+            "C:\\Teste\\Git\\ProjetoGol\\Projeto\\Projeto.Infra.Data\\Projeto.Infra.Data.csproj": {
+              "projectPath": "C:\\Teste\\Git\\ProjetoGol\\Projeto\\Projeto.Infra.Data\\Projeto.Infra.Data.csproj"
             }
           }
         }

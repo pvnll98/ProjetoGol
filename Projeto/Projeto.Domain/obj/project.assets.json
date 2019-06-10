@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Teste\\Projeto\\Projeto.Domain\\Projeto.Domain.csproj",
+      "projectUniqueName": "C:\\Teste\\Git\\ProjetoGol\\Projeto\\Projeto.Domain\\Projeto.Domain.csproj",
       "projectName": "Projeto.Domain",
-      "projectPath": "C:\\Teste\\Projeto\\Projeto.Domain\\Projeto.Domain.csproj",
+      "projectPath": "C:\\Teste\\Git\\ProjetoGol\\Projeto\\Projeto.Domain\\Projeto.Domain.csproj",
       "packagesPath": "C:\\Users\\Daniel Batuira\\.nuget\\packages\\",
-      "outputPath": "C:\\Teste\\Projeto\\Projeto.Domain\\obj\\",
+      "outputPath": "C:\\Teste\\Git\\ProjetoGol\\Projeto\\Projeto.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
