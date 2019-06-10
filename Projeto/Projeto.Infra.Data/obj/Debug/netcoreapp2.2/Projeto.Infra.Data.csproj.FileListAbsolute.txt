@@ -1,0 +1,14 @@
+C:\Teste\Projeto\Projeto.Infra.Data\bin\Debug\netcoreapp2.2\Projeto.Infra.Data.deps.json
+C:\Teste\Projeto\Projeto.Infra.Data\bin\Debug\netcoreapp2.2\Projeto.Infra.Data.dll
+C:\Teste\Projeto\Projeto.Infra.Data\bin\Debug\netcoreapp2.2\Projeto.Infra.Data.pdb
+C:\Teste\Projeto\Projeto.Infra.Data\obj\Debug\netcoreapp2.2\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Teste\Projeto\Projeto.Infra.Data\obj\Debug\netcoreapp2.2\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Teste\Projeto\Projeto.Infra.Data\obj\Debug\netcoreapp2.2\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\Teste\Projeto\Projeto.Infra.Data\obj\Debug\netcoreapp2.2\Projeto.Infra.Data.AssemblyInfo.cs
+C:\Teste\Projeto\Projeto.Infra.Data\obj\Debug\netcoreapp2.2\Projeto.Infra.Data.dll
+C:\Teste\Projeto\Projeto.Infra.Data\obj\Debug\netcoreapp2.2\Projeto.Infra.Data.pdb
+C:\Teste\Projeto\Projeto.Infra.Data\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Teste\Projeto\Projeto.Infra.Data\bin\Debug\netcoreapp2.2\Projeto.Domain.dll
+C:\Teste\Projeto\Projeto.Infra.Data\bin\Debug\netcoreapp2.2\Projeto.Domain.pdb
+C:\Teste\Projeto\Projeto.Infra.Data\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Teste\Projeto\Projeto.Infra.Data\obj\Debug\netcoreapp2.2\Projeto.Infra.Data.csproj.CopyComplete
